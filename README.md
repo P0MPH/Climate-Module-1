@@ -5,8 +5,9 @@
 
 ## Team Members
 
-🦸
-🦹
+Charli J.
+
+Yassin B.
 
 ## 🎓 Learning Objectives
 
