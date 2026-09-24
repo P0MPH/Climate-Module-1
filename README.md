@@ -7,8 +7,6 @@
 
 Charli J.
 
-Yassin B.
-
 ## 🎓 Learning Objectives
 
 :octocat: Use of GitHub  
